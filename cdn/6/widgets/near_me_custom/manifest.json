@@ -1,0 +1,22 @@
+{
+  "name": "near_me_custom",
+  "label": "Near Me Custom",
+  "type": "widget",
+  "version": "1.16.0",
+  "exbVersion": "1.16.0",
+  "author": "Ahjung Kim, High Street Consulting",
+  "description": "",
+  "copyright": "",
+  "license": "http://www.apache.org/licenses/LICENSE-2.0",
+  "properties": {},
+  "translatedLocales": [
+    "en"
+  ],
+  "dependency": [
+    "jimu-arcgis"
+  ],
+  "defaultSize": {
+    "width": 400,
+    "height": 400
+  }
+}
